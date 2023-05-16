@@ -3,6 +3,7 @@ spring.datasource.url = jdbc:mysql://bwkvltorzwv3ycvoaghw-mysql.services.clever-
 spring.datasource.username = uvwukezx9m9bwdao
 spring.datasource.password = pqfF9cusofAO6NZzzs9N
 spring.jpa.database-platform = org.hibernate.dialect.MySQL8Dialect
+server.port=10000
 
 #JWT
 jwt.secret = secret
